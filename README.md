@@ -1,4 +1,4 @@
-# politica de privacidade
+# Política de privacidade
 
 1. O escopo de aplicação da política de proteção de privacidade
 Por favor, explique o escopo de aplicação da política de proteção de privacidade do site.
