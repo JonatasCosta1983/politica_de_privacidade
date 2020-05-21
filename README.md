@@ -1,9 +1,5 @@
 # politica de privacidade
 
-Este é um modelo de cláusulas de privacidade baseado nos "Versão do site do governo e nos Padrões de gerenciamento de conteúdo". Foi ligeiramente ajustado para remover itens que não são aplicáveis ​​a empresas em geral. Qualquer site pode adicionar esse modelo ao seu próprio nome e fazer isso. Utilizado no site após modificação.
-
-Observe que, se você deseja modificar este modelo de termos particulares, é necessário incluir pelo menos os seguintes itens:
-
 1. O escopo de aplicação da política de proteção de privacidade
 Por favor, explique o escopo de aplicação da política de proteção de privacidade do site.
 
